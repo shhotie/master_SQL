@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="0 0 909 1286" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<clipPath id="c0_13"><path d="M-.2 1286.6V-.2h910V1286.6Z"/></clipPath>
+<clipPath id="c1_13"><path d="M822.8 58.2c-10.7 0 -19.4 -8.7 -19.4 -19.5c0 -10.7 8.7 -19.5 19.4 -19.5c10.8 0 19.5 8.8 19.5 19.5c0 10.8 -8.7 19.5 -19.5 19.5Z"/></clipPath>
+<clipPath id="c2_13"><path d="M279.5 462.9V243H611.7V462.9Z"/></clipPath>
+<clipPath id="c3_13"><path d="M73 885.7V647.8H437.2V885.7Z"/></clipPath>
+<clipPath id="c4_13"><path d="M478.1 883.4V651.3H831.5V883.4Z"/></clipPath>
+<style type="text/css"><![CDATA[
+.g0_13{
+fill: none;
+stroke: #A4A4A4;
+stroke-width: 1.145;
+stroke-miterlimit: 10;
+}
+.g1_13{
+fill: #000;
+}
+.g2_13{
+fill: none;
+stroke: #F00;
+stroke-width: 1.527;
+stroke-miterlimit: 10;
+}
+]]></style>
+</defs>
+<g clip-path="url(#c0_13)">
+<image preserveAspectRatio="none" x="682" y="25" width="126" height="32" xlink:href="img/1.png"/>
+<image preserveAspectRatio="none" x="800" y="16" width="51" height="51" xlink:href="img/2.png"/>
+</g>
+<image clip-path="url(#c1_13)" preserveAspectRatio="none" x="803" y="16" width="39" height="51" xlink:href="img/3.jpg"/>
+<path d="M908.3 1255.2H861.7v-17.6H815.1m-814 17.6H788.8v-17.6h26.3" class="g0_13"/>
+<path fill-rule="evenodd" d="M55 76.3h.7v-.8H55v.8Z" class="g1_13"/>
+<path fill-rule="evenodd" d="M55 76.3h.7v-.8H55v.8Z" class="g1_13"/>
+<path fill-rule="evenodd" d="M55.7 76.3H271.2v-.8H55.7v.8Z" class="g1_13"/>
+<path fill-rule="evenodd" d="M271.2 76.3h.7v-.8h-.7v.8Z" class="g1_13"/>
+<path fill-rule="evenodd" d="M271.9 76.3H854v-.8H271.9v.8Z" class="g1_13"/>
+<path fill-rule="evenodd" d="M854 76.3h.7v-.8H854v.8Z" class="g1_13"/>
+<path fill-rule="evenodd" d="M854 76.3h.7v-.8H854v.8Z" class="g1_13"/>
+<path fill-rule="evenodd" d="M55 483.9h.7V76.3H55V483.9Z" class="g1_13"/>
+<path fill-rule="evenodd" d="M271.2 483.9h.7V76.3h-.7V483.9Z" class="g1_13"/>
+<path fill-rule="evenodd" d="M854 483.9h.7V76.3H854V483.9Z" class="g1_13"/>
+<path fill-rule="evenodd" d="M55 484.6h.7v-.7H55v.7Z" class="g1_13"/>
+<path fill-rule="evenodd" d="M55.7 484.6H271.2v-.7H55.7v.7Z" class="g1_13"/>
+<path fill-rule="evenodd" d="M271.2 484.6h.7v-.7h-.7v.7Z" class="g1_13"/>
+<path fill-rule="evenodd" d="M271.9 484.6H455.3v-.7H271.9v.7Z" class="g1_13"/>
+<path fill-rule="evenodd" d="M455.3 484.6h.8v-.7h-.8v.7Z" class="g1_13"/>
+<path fill-rule="evenodd" d="M456.1 484.6H854v-.7H456.1v.7Z" class="g1_13"/>
+<path fill-rule="evenodd" d="M854 484.6h.7v-.7H854v.7Z" class="g1_13"/>
+<path fill-rule="evenodd" d="M55 1209.4h.7V484.6H55v724.8Z" class="g1_13"/>
+<path fill-rule="evenodd" d="M55 1210.2h.7v-.7H55v.7Z" class="g1_13"/>
+<path fill-rule="evenodd" d="M55 1210.2h.7v-.7H55v.7Z" class="g1_13"/>
+<path fill-rule="evenodd" d="M55.7 1210.2H455.3v-.7H55.7v.7Z" class="g1_13"/>
+<path fill-rule="evenodd" d="M455.3 1209.4h.8V484.6h-.8v724.8Z" class="g1_13"/>
+<path fill-rule="evenodd" d="M455.3 1210.2h.8v-.7h-.8v.7Z" class="g1_13"/>
+<path fill-rule="evenodd" d="M456.1 1210.2H854v-.7H456.1v.7Z" class="g1_13"/>
+<path fill-rule="evenodd" d="M854 1209.4h.7V484.6H854v724.8Z" class="g1_13"/>
+<path fill-rule="evenodd" d="M854 1210.2h.7v-.7H854v.7Z" class="g1_13"/>
+<path fill-rule="evenodd" d="M854 1210.2h.7v-.7H854v.7Z" class="g1_13"/>
+<image clip-path="url(#c2_13)" preserveAspectRatio="none" x="280" y="243" width="331" height="220" xlink:href="img/4.jpg"/>
+<image clip-path="url(#c3_13)" preserveAspectRatio="none" x="73" y="648" width="364" height="237" xlink:href="img/5.jpg"/>
+<image clip-path="url(#c4_13)" preserveAspectRatio="none" x="478" y="652" width="353" height="231" xlink:href="img/6.jpg"/>
+<path d="M528.2 367.1c0 -21.2 9.5 -38.4 21.2 -38.4c11.7 0 21.2 17.2 21.2 38.4c0 21.2 -9.5 38.4 -21.2 38.4c-11.7 0 -21.2 -17.2 -21.2 -38.4ZM348.6 822.9c0 -21.2 9.5 -38.4 21.3 -38.4c11.7 0 21.2 17.2 21.2 38.4c0 21.2 -9.5 38.4 -21.2 38.4c-11.8 0 -21.3 -17.2 -21.3 -38.4Zm393.5 .3c0 -21.3 9.5 -38.4 21.3 -38.4c11.7 0 21.2 17.1 21.2 38.4c0 21.1 -9.5 38.3 -21.2 38.3c-11.8 0 -21.3 -17.2 -21.3 -38.3ZM73 861.5H430.9V784.8H73v76.7Zm400.7 .3H831.6V785H473.7v76.8Z" class="g2_13"/>
+</svg>
